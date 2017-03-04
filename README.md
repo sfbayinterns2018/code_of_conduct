@@ -1,5 +1,6 @@
 # Code of Conduct
-Community Standards
+
+##Community Standards
 
 Examples of behavior that contributes to creating a positive environment include:
 
