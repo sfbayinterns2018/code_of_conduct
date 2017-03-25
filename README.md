@@ -56,9 +56,9 @@ Once the admins get involved, they will follow a documented series of steps and 
 
 ### Further Enforcement
 
-If you've already followed the [initial enforcement steps](#enforcement), these are the steps admins will take for further enforcement, as needed:
+These are the steps admins will take for further enforcement, as needed:
 
-  1. Repeat the request to stop.
+  1. Request the person to stop.
   2. If the person doubles down, they will have offending messages removed or edited by an admin given an official warning.
   3. If the behavior continues or is repeated later, the person will be blocked from participating for 24 hours.
   4. If the behavior continues or is repeated after the temporary block, the participant's account will be suspended.
