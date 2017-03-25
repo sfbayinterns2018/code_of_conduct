@@ -1,5 +1,9 @@
 # Code of Conduct
 
+## Our Pledge
+
+In the interest of fostering an open and welcoming environment, we as contributors to and admins of this project pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, technical preferences, nationality, personal appearance, race, religion, or sexual identity and orientation.
+
 ## Community Standards
 
 Examples of expected behaviors that contribute to creation of a positive environment include:
@@ -19,10 +23,6 @@ Examples of unacceptable behaviors that violate the CoC include:
   * Publishing others’ private information, such as a physical or electronic address, without explicit permission. This includes any sort of “outing” of any aspect of someone’s identity without their consent.
   * Publishing private screenshots or quotes of interactions in the context of this project without all quoted users’ *explicit* consent.
   * Other conduct which could reasonably be considered inappropriate in a professional or community setting.
-
-## Our Pledge
-
-In the interest of fostering an open and welcoming environment, we as contributors to and admins of this project pledge to making participation in our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, technical preferences, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## When Something Happens
 
